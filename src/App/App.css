@@ -1,0 +1,61 @@
+.word{
+    position: relative;
+    left: 40%;
+    top: -18pc;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 5pc;
+     color: black;
+
+}
+.txt1{
+
+    position: relative;
+    left: 30%;
+    top: -20pc;
+    font-size: 1pc;
+     box-shadow: 10px 10px 15px white;;
+    width: 40pc;
+    height: 15pc;
+    background-color: whitesmoke;
+    border-radius: 2pc;
+    color: black;
+    border: 2px solid white;
+
+}
+.Pronunciation{
+    color: rgb(73, 179, 73);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3pc;
+}
+
+.btn{
+
+     width: 15pc;
+     height: 4pc;
+     position: relative;
+     left: 53%;
+     top: -42pc;
+    color: rgb(73, 179, 73);
+    background-color: white;
+    border:  2px solid rgb(73, 179, 73);
+    border-radius: 1pc;
+    font-size: 2pc;
+
+
+}
+.Definitions{
+    color: rgb(73, 179, 73);
+}
+.txt2{
+    width: 40pc;
+    font-size: 2pc;
+    height: auto;
+    background-color: whitesmoke;
+    border-radius: 1pc;
+    border: 2px solid white;
+    position: relative;
+    left: 30%;
+    top: -23pc;
+    box-shadow: 10px 10px 15px white;
+    font-family: Arial, Helvetica, sans-serif;
+}

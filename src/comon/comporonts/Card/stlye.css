@@ -1,0 +1,38 @@
+.cardback{
+
+  
+    width: 50pc;
+    height: 30pc;
+    padding: 20px;
+    margin: 0px;
+    position: relative;
+    left: 30%;   
+}
+.fontDis{
+    font-family: "Pacifico";
+    font-size: 3pc;
+    color: rgb(24, 182, 45);
+    position: relative;
+    left: 9pc;
+
+}
+.inputText{
+    width: 25pc;
+    height: 3pc;
+    position: relative;
+    left: 4pc;
+    top: 2pc;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search{
+    width: 9pc;
+    height: 3pc;
+    position: relative;
+    left: 5.3pc;
+    top: 2pc;
+    background-color: rgb(10, 138, 59);
+    border: 2px solid rgb(10, 138, 59);
+    border-radius: 2px;
+    color: white;
+}
